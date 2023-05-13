@@ -1,0 +1,16 @@
+my-app/
+├─ .github/
+│   └─ workflows/
+│       └─ ci.yml
+├─ public/
+│   └─ index.html
+├─ src/
+│   ├─ components/
+│   │   └─ Button.js
+│   ├─ App.css
+│   ├─ App.js
+│   ├─ api-schema.json
+│   ├─ themes.css
+│   └─ index.js
+├─ .gitignore
+└─ package.json
